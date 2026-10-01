@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atlantawaterheaterco.com/sitemap.xml
